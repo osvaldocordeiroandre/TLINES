@@ -66,3 +66,29 @@ main{
     width: 100%;
 }
 
+.button-upper {
+    background-color: rgb(73, 223, 35);;
+
+    border-radius: 100px;
+
+    width: 62px;
+    height: 62px;
+
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+
+    cursor: pointer;
+
+    display: none;
+
+    color: rgb(255, 255, 255);
+
+    font-weight: 600;
+
+    text-align: center;
+
+    padding-top: 20px;
+    
+} 
+
